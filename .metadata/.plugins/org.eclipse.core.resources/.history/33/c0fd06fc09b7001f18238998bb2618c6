@@ -1,0 +1,5 @@
+package com.cognizant.config_client.model;
+
+public class Limits {
+
+}
